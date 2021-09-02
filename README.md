@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamza-ALyemeni
 - 👀 I’m interested in react native
 - 🌱 I’m currently learning react native and laravel
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on react native projects
 - 📫 How to reach me ...
 
 <!---

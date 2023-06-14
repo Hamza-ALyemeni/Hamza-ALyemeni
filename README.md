@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamza-ALyemeni
-- 👀 I’m interested in react  and laravel
-- 🌱 I’m currently learning laravel 
-- 💞️ I’m looking to collaborate on laravel projects
+- 👀 I’m interested in javascript and angular
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me ...
 
 <!---

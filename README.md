@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamza-ALyemeni
 - 👀 I’m interested in javascript and react and react native
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning raect
 - 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me ...
 
